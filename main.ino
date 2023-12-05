@@ -48,10 +48,6 @@ void setup() {
   pinMode(IN3, OUTPUT);
   pinMode(IN4, OUTPUT);
 
-  // Configuración del sensor de color TCS3200
-  digitalWrite(S0, HIGH);
-  digitalWrite(S1, LOW);
-
   // Inicialización de la comunicación serial para la depuración
   Serial.begin(9600); 
 }
