@@ -21,3 +21,9 @@ El proyecto busca poder automatizar el trabajo de las personas que acomodan los 
 1.4. ¿A quién beneficia?
 
 Este proyecto de mini robot montacargas beneficiará a los supermercados y tiendas minoristas que buscan mejorar su eficiencia y reducir costos. Al automatizar el proceso de transporte de productos a las góndolas, se reducirá la necesidad de mano de obra humana para realizar esta tarea, lo que puede ahorrar tiempo y dinero a la empresa. Además, puede ayudar a reducir el riesgo de lesiones y accidentes laborales para los empleados que de otro modo tendrían que realizar esta tarea manualmente.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Fritzing + Diagrama en bloques + Planteo de la superficie
+https://www.canva.com/design/DAFlVK1oUgI/YgwLoEqtbEnSHY9QoGjj6g/edit
+
