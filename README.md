@@ -1,8 +1,8 @@
 1.1. Descripción General
 
-Buscamos desarrollar un mini robot montacargas que pueda transportar insumos a través de un supermercado de manera semi-autónoma. El robot estará equipado con varios componentes electrónicos, incluyendo un Arduino Uno para el control, una shield v5.0 donde se conectarán todos los sensores, motores CC, controladores, y un módulo bluetooth para poder conectarnos a una aplicación.
+Buscamos desarrollar un mini robot montacargas que pueda transportar insumos a través de un supermercado de manera semi-autónoma. El robot esta equipado con varios componentes electrónicos, incluyendo un Arduino Uno para el control, una shield v5.0 donde se conectan todos los sensores, motores CC, controladores, y un módulo bluetooth para poder conectarnos a una aplicación.
 
-El diseño del robot montacargas será compacto y resistente, con la capacidad de transportar carga. El robot tendrá la capacidad de moverse en diferentes direcciones y girar para poder llegar a las diferentes ubicaciones que se le indiquen, en distintos entornos
+El diseño del robot montacargas es compacto y resistente, con la capacidad de transportar carga. El robot tiene la capacidad de moverse en diferentes direcciones y girar para poder llegar a las diferentes ubicaciones que se le indiquen, en distintos entornos
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
